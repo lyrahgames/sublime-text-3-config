@@ -1,0 +1,12 @@
+*
+!*.sublime-settings
+!*.sublime-keymap
+
+!Terminus
+!Terminus/**
+
+!Colorsublime\ -\ Themes
+!Colorsublime\ -\ Themes/*.tmTheme
+
+!README.md
+!.gitignore
